@@ -33,3 +33,8 @@ total_tiempo+total_tiempo_lecturas
 dias_de_semana<-c("Lunes","Martes", "Miércoles", "Jueves", "Viernes")
 temas_curiosidad_martes<-c("Código detrás del main de java y python")
 tareas_panning_martes<-c("Analizar la historia y hacer un Feature Modelo", "Seguir los pasos del planning para definir criterios de aceptación y casos de prueba")
+
+x<-"Este solo es un saludito"
+x
+y<-c("Este","es","un","saludito")
+y
