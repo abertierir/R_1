@@ -14,3 +14,15 @@ rownames(tiempo_matriz) <-Tiempo
 tiempo_matriz
 
 colSums(tiempo_matriz)
+
+
+time_programming<-c(2,2,2,2,2)
+time_working<-c(8,8,8,8,8)
+
+matrix<-matrix(c(time_programming,time_working),nrow=2, byrow=TRUE)
+matrix
+
+activities<-c("studying","working")
+colnames(matrix)<-dias
+rownames(matrix)<-activities
+matrix
