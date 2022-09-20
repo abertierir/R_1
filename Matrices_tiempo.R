@@ -26,3 +26,10 @@ activities<-c("studying","working")
 colnames(matrix)<-dias
 rownames(matrix)<-activities
 matrix
+
+reading_matrix <- rbind(matrix,c(1,5,3,3,4))
+reading_matrix
+
+colSums(reading_matrix)
+
+#Reto Agregar una nueva Columna
