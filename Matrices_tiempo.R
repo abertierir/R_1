@@ -33,3 +33,7 @@ reading_matrix
 colSums(reading_matrix)
 
 #Reto Agregar una nueva Columna
+
+saturday_matrix <-cbind(reading_matrix,c(0,0,3))
+saturday_matrix
+colSums(saturday_matrix)
