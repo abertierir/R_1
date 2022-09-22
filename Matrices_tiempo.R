@@ -37,3 +37,8 @@ colSums(reading_matrix)
 saturday_matrix <-cbind(reading_matrix,c(0,0,3))
 saturday_matrix
 colSums(saturday_matrix)
+
+
+week_matrix <-rbind(saturday_matrix,c(1,1,1))
+week_matrix
+week_matrix
