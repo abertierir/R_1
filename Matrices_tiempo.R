@@ -41,4 +41,9 @@ colSums(saturday_matrix)
 
 week_matrix <-rbind(saturday_matrix,c(1,1,1))
 week_matrix
+
+
+# There are another fucntions  with ggplot
+
+
 week_matrix
