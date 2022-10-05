@@ -44,6 +44,14 @@ week_matrix
 
 
 # There are another fucntions  with ggplot
+objects()
+
+rnorm(n=10, mean=100,sd=10)
+help("rnorm")
+?rnorm
+
+#La base de datos que vamos a usar
+
 
 
 week_matrix
