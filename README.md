@@ -1,3 +1,4 @@
-# Class Notes
-## Main fuctions
-## Description
+# Learning R
+## Class Notes
+### Main fuctions
+## Project Description
