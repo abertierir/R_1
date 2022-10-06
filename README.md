@@ -1,1 +1,3 @@
-# R_1
+# Class Notes
+## Main fuctions
+## Description
