@@ -1,7 +1,7 @@
 # Learning R - Learning Notes
 ## Librerías
 Once R is ready loads 7 basic librarys (`usted`,`stats`,`graphics`,`grDevices`,`utils`, `datasets, methods` y `base`).
-Cuando R carga 7 librerías bases (`usted`,`stats`,`graphics`,`grDevices`,`utils`, `datasets, methods` y `base`).
+
 ---
 Librerías
 
